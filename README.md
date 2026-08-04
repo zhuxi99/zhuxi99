@@ -1,66 +1,74 @@
 <div align="center">
-
-# 竹昔 · Zhuxi
-
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3600&pause=900&color=8A2BE2&center=true&width=620&height=70&lines=Building+practical+AI+tools;Developer+automation+and+workflows;Robotics+%2B+embedded+systems)](https://github.com/zhuxi99)
-
-AI 工具、开发者自动化和嵌入式系统爱好者，正在把想法做成能用的产品。
-
-[![GitHub](https://img.shields.io/badge/GitHub-zhuxi99-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhuxi99)
-[![Email](https://img.shields.io/badge/Email-xzhu97008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xzhu97008@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=zhuxi99&style=for-the-badge&color=blueviolet)](https://github.com/zhuxi99)
-
+  <img src="assets/hero.png" width="100%" alt="竹昔 · Zhuxi - AI tools, automation, robotics, and embedded systems" />
 </div>
 
-## About
+<p align="center">
+  <a href="https://github.com/zhuxi99"><img src="https://img.shields.io/badge/GitHub-zhuxi99-00E5FF?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:xzhu97008@gmail.com"><img src="https://img.shields.io/badge/Email-xzhu97008%40gmail.com-FF2BD6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://zhuxi99.github.io/ai-price-compare.github.io/"><img src="https://img.shields.io/badge/Live%20Demo-zhuxi99.github.io-00FF9C?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zhuxi99&style=flat-square&color=00e5ff&label=VISITS" alt="Profile views" />
+</p>
 
-- Building practical AI tools and developer workflows, including pricing helpers and automation scripts.
-- Exploring robotics and embedded systems with STM32, robotic arms, Bluetooth control, and C development.
-- Open to collaboration on practical AI utilities, open-source developer tools, and software that talks to real hardware.
+## 概览 · Overview
 
-## GitHub Stats
+构建实用的 AI 工具与开发者自动化，同时探索机器人、嵌入式系统和 C 开发。欢迎一起做 AI 工具、开源开发者工具，以及能和真实硬件对话的软件。
+
+Building practical AI tools and developer automation, with side quests into robotics, embedded systems, and C. Open to collaboration on AI utilities, open-source dev tools, and software that talks to real hardware.
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zhuxi99&theme=radical&hide_border=true&border_radius=10)](https://github.com/zhuxi99)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhuxi99&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="GitHub contribution graph" />
-
+  <img src="https://github-stats-alpha.vercel.app/api?username=zhuxi99&cc=0D1117&tc=E6EDF3&ic=00E5FF&bc=30363D&br=12" height="180" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=zhuxi99&theme=outrun&hide_border=true" height="180" alt="GitHub streak" />
 </div>
 
-## Featured Projects
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhuxi99&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Contribution graph" />
+</div>
 
-### [AI Price Compare](https://github.com/zhuxi99/ai-price-compare.github.io)
+## 代表项目 · Featured
 
-A browser-based tool for comparing AI model and API provider pricing across input, cached-input, and output tokens.
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b><a href="https://github.com/zhuxi99/ai-price-compare.github.io">AI Price Compare</a></b><br />
+      比较 AI 模型和 API 供应商在输入、缓存输入、输出 token 上的价格。<br />
+      <a href="https://zhuxi99.github.io/ai-price-compare.github.io/">Live demo</a> · <a href="https://github.com/zhuxi99/ai-price-compare.github.io">Source</a><br />
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+    <td align="center" width="50%">
+      <b><a href="https://github.com/zhuxi99/STM32F103C8-6-">STM32 Six-Servo Robotic Arm</a></b><br />
+      STM32F103C8T6 六自由度机械臂控制器，支持蓝牙控制与嵌入式 C 开发。<br />
+      <a href="https://github.com/zhuxi99/STM32F103C8-6-">Source</a><br />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Assembly-6B4C1E?style=flat-square" alt="Assembly" />
+      <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square" alt="STM32" />
+    </td>
+  </tr>
+</table>
 
-[Live demo](https://zhuxi99.github.io/ai-price-compare.github.io/) · [Source](https://github.com/zhuxi99/ai-price-compare.github.io)
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/zhuxi99/ai-price-compare.github.io)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/zhuxi99/ai-price-compare.github.io)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://github.com/zhuxi99/ai-price-compare.github.io)
-[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://github.com/zhuxi99/ai-price-compare.github.io)
-
-### [STM32 Six-Servo Robotic Arm](https://github.com/zhuxi99/STM32F103C8-6-)
-
-An STM32F103C8T6 controller for a six-servo robotic arm with Bluetooth control and embedded C development.
-
-[Source](https://github.com/zhuxi99/STM32F103C8-6-)
-
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](https://github.com/zhuxi99/STM32F103C8-6-)
-[![Assembly](https://img.shields.io/badge/Assembly-6B4C1?style=flat)](https://github.com/zhuxi99/STM32F103C8-6-)
-[![STM32](https://img.shields.io/badge/STM32-03234B?style=flat)](https://github.com/zhuxi99/STM32F103C8-6-)
-
-## Skills
-
-Languages and tools I use for small tools, automation, web prototypes, and embedded development.
+## 工具箱 · Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,c,rust,bash,git,github,linux,nodejs,vscode" alt="JavaScript, HTML, CSS, C, Rust, Bash, Git, GitHub, Linux, Node.js, and VS Code" />
 </p>
 
-## Contact
+## 其他仓库 · More
 
-- GitHub: https://github.com/zhuxi99
-- Email: xzhu97008@gmail.com
-- Live demo: https://zhuxi99.github.io/ai-price-compare.github.io/
+<p align="center">
+  <a href="https://github.com/zhuxi99/emailctl">emailctl</a> ·
+  <a href="https://github.com/zhuxi99/libcimbar">libcimbar</a> ·
+  <a href="https://github.com/zhuxi99/cloud-mail">cloud-mail</a> ·
+  <a href="https://github.com/zhuxi99/newapi-checkin">newapi-checkin</a> ·
+  <a href="https://github.com/zhuxi99/codex-autoresearch">codex-autoresearch</a>
+</p>
+
+## 联系 · Contact
+
+<p align="center">
+  <a href="https://github.com/zhuxi99">GitHub</a> ·
+  <a href="mailto:xzhu97008@gmail.com">Email</a> ·
+  <a href="https://zhuxi99.github.io/ai-price-compare.github.io/">Live demo</a>
+</p>
+
+<sub>Profile header background from Unsplash. Stats, streak, and contribution graph are rendered by third-party GitHub badge services.</sub>
