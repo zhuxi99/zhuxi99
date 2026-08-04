@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/hero.png" width="100%" alt="竹昔 · Zhuxi - AI tools, automation, robotics, and embedded systems" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero.jpg" />
+    <img src="assets/hero-light.jpg" width="100%" alt="竹昔 · Zhuxi - AI tools, automation, robotics, and embedded systems" />
+  </picture>
 </div>
 
 <p align="center">
