@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=zhuxi99&style=flat-square&color=d4a373&label=VISITS" alt="Profile views" />
 </p>
 
-## 🌿 概览 · Overview
+##  概览 · Overview
 
 专注构建实用的 **AI 工具生态**、**开发者自动化** 与 **机器人/嵌入式软硬件协同系统**。
 目前主要聚焦于 **RoboMaster 战队研发工作流**、**DeepSeek Harness (DSH) 插件体系** 以及能够与真实硬件高效对话的工程实践。
@@ -32,7 +32,7 @@ Focused on building practical **AI tooling ecosystems**, **developer automation 
 
 ---
 
-## 🚀 代表项目 · Featured Projects
+##  代表项目 · Featured Projects
 
 <table align="center" width="100%">
   <tr>
@@ -99,7 +99,7 @@ Focused on building practical **AI tooling ecosystems**, **developer automation 
 
 ---
 
-## 🛠️ 技术栈与工具箱 · Tech Stack & Toolbox
+##  技术栈与工具箱 · Tech Stack & Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,rust,js,nodejs,linux,bash,git,github,vscode,html,css&theme=light" alt="C, Rust, JavaScript, Node.js, Linux, Bash, Git, GitHub, VS Code, HTML, CSS" />
@@ -107,7 +107,7 @@ Focused on building practical **AI tooling ecosystems**, **developer automation 
 
 ---
 
-## 📦 更多开源探索 · More Repositories
+##  更多开源探索 · More Repositories
 
 <p align="center">
   <a href="https://github.com/zhuxi99/RoboMaster-DSH-Vision-Nav"><b>RoboMaster-DSH-Vision-Nav</b></a> ·
@@ -119,7 +119,7 @@ Focused on building practical **AI tooling ecosystems**, **developer automation 
 
 ---
 
-## 📬 联系方式 · Connect
+##  联系方式 · Connect
 
 <p align="center">
   <a href="https://github.com/zhuxi99"><img src="https://img.shields.io/badge/GitHub-zhuxi99-d4a373?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
